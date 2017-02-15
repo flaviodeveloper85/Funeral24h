@@ -1,0 +1,5 @@
+# robots.txt 28-08-2015
+User-agent: *
+Disallow: 
+Disallow: /Erros
+Disallow: /arquivosparadownload
